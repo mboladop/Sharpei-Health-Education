@@ -1,2 +1,2 @@
-# Sharpei-Health-Education
-app donation for Sharpei health and education facebook group.
+# Sharpei Health&Education
+App/site donation for Sharpei health and education facebook group.
