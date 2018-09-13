@@ -1,10 +1,10 @@
 import os
 import dj_database_url
 
-#SSL HACK to collectstatic on prod
+# #SSL HACK to collectstatic on prod
+
 if hasattr(ssl, '_create_unverified_context'):
     ssl._create_default_https_context = ssl._create_unverified_context
-
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
